@@ -6,3 +6,7 @@
 #### Link to codes: https://github.com/chrisqian1/cs839/tree/master/codes
 #### Link to the compressed file: https://github.com/chrisqian1/cs839/blob/master/result.rar
 #### Link to the report pdf: https://github.com/chrisqian1/cs839/blob/master/%20839%20report.pdf
+## Project Stage2
+#### Link to the data: https://github.com/chrisqian1/cs839/tree/master/stage2/data
+#### Link to the code: https://github.com/chrisqian1/cs839/tree/master/stage2/code
+#### Link to the report pdf: https://github.com/chrisqian1/cs839/blob/master/stage2/report.pdf
