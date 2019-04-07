@@ -1,5 +1,5 @@
 # cs839
-##Project Stage1
+## Project Stage1
 #### Link to all of the data: https://github.com/chrisqian1/cs839/tree/master/alldata 
 #### Link to training set I: https://github.com/chrisqian1/cs839/tree/master/training%20set%20I
 #### Link to testing set J: https://github.com/chrisqian1/cs839/tree/master/testing%20set%20J
