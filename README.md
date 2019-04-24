@@ -12,5 +12,6 @@
 #### Link to the report pdf: https://github.com/chrisqian1/cs839/blob/master/stage2/report.pdf
 ## Project Stage3
 ### Matching Fodors and Zagats
-#### Link to the user ID and the project ID: https://github.com/chrisqian1/cs839/blob/master/stage3/Matching%20Fodors%20and%20Zagats/Readme.md
+#### Our user ID: flashgroup
+#### Our project ID: restaurant
 #### Link to the screen shot: https://github.com/chrisqian1/cs839/blob/master/stage3/Matching%20Fodors%20and%20Zagats/screenshot.png
