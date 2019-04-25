@@ -15,3 +15,11 @@
 #### Our user ID: flashgroup
 #### Our project ID: restaurant
 #### Link to the screen shot: https://github.com/chrisqian1/cs839/blob/master/stage3/Matching%20Fodors%20and%20Zagats/screenshot.png
+### Blocking Results
+#### Our user ID: flashgroup
+#### Our project ID: cosmetics
+#### Link to the screen shot:https://github.com/chrisqian1/cs839/blob/master/stage3/Blocking%20Results/screenshot_blocking.png
+### Matching Results
+#### Our user ID: flashgroup
+#### Our project ID: cosmetics
+#### Link to the screen shot:https://github.com/chrisqian1/cs839/blob/master/stage3/Matching%20Results/screenshot_matching.png
