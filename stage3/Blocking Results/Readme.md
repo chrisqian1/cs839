@@ -1,3 +1,3 @@
 This is the blocking results of stage3.
-Our user ID: flashgroup
-Our project ID: restaurant
+Our user ID is flashgroup.
+Our project ID is restaurant.
