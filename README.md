@@ -36,3 +36,10 @@
 #### The precision and recall of the 400 tuple pairs are:
 ##### Recall = [ 0.8889989616530606 - 0.9490962764421774]
 ##### Precision = [ 0.5831308508260233 - 0.6649947932062406]
+### Revised Result
+#### Link to the blocking code:https://github.com/chrisqian1/cs839/blob/master/stage3/revised%20result/revised_blocking.py
+#### Link to the reduced candidate set:https://github.com/chrisqian1/cs839/blob/master/stage3/revised%20result/revised_candidate_blocking.csv
+#### Link to the 400 tuple pairs:https://github.com/chrisqian1/cs839/blob/master/stage3/revised%20result/revised_candidate_select_400_labeled.csv
+#### The precision and recall of the 400 tuple pairs are:
+##### Recall = [0.922406045697587 - 0.9775939543024129]
+##### Precision = [0.6577500443085018 - 0.7487310308869217]
